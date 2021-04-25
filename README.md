@@ -27,7 +27,7 @@ With Cyclone, users end up with the flexibility of workflow orchestration and th
 
 ## Quick Start
 
-Build images
+Build imagess
 
 ```bash
 $ make container
@@ -41,7 +41,7 @@ $ kubectl create -f manifests/cyclone.yaml
 
 ## Community
 
-- **Slack**: Join [Cyclone Community](https://caicloud-cyclone.slack.com/join/signup) for disscussions and posting questions.
+- **Slack**: Joins [Cyclone Community](https://caicloud-cyclone.slack.com/join/signup) for disscussions and posting questions.
 
 ## Roadmap
 
@@ -54,4 +54,4 @@ We welcome any code or non-code contribution!
 
 ## Licensing
 
-Cyclone is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
+Cyclones is licensed under the Apache License, Version 2.0. See [LICENSE](./LICENSE) for the full license text.
